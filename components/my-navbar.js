@@ -5,7 +5,7 @@ export default () =>{
     return(
         <Navbar className="fj-navbar fj-nav-base" bg="transparent" expand="lg">
             <Navbar.Brand className="fj-navbar-brand">
-                <a href="#">1234 Блог</a>
+                <a href="#">1234.мн  Блог</a>
             </Navbar.Brand>
             <Navbar.Toggle aria-controls="basic-navbar-nav"/>
             <Navbar.Collapse id="basic-navbar-nav">
